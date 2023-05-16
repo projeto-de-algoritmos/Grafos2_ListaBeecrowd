@@ -7,25 +7,34 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0094320  |  Pedro Siqueira |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0058576  |  João Miranda    |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Repositório com soluções de problemas do Beecrowd que envolvem o conteúdo estudado em Grafos 2, utilizando linguagem C.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- [1123 - Desvio de Rota](https://www.beecrowd.com.br/judge/pt/problems/view/1123)
+<img width="733" alt="Captura de Tela 2023-05-15 às 22 00 11" src="https://github.com/projeto-de-algoritmos/Grafos2_ListaBeecrowd/assets/86636146/57dd6bd2-ae9d-47cf-afab-4735e621ed7d">
+
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C<br>
+**Pré-requisito**: GCC Compiler <br>
+
+## 1. Clone o repositório 
+
+```bash
+git clone https://github.com/projeto-de-algoritmos/Grafos2_ListaBeecrowd.git
+```
+
+### 2. Compile o programa
+
+```bash
+gcc nome_do_arquivo.c -o nome_do_executavel
+./nome_do_executavel
+```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
+Para aplicar os casos de teste, basta acessar o link referente ao exercício na plataforma Beecrowd e inserí-los.
 
