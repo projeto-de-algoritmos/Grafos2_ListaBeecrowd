@@ -17,6 +17,10 @@ Repositório com soluções de problemas do Beecrowd que envolvem o conteúdo es
 <img width="733" alt="Captura de Tela 2023-05-15 às 22 00 11" src="https://github.com/projeto-de-algoritmos/Grafos2_ListaBeecrowd/assets/86636146/57dd6bd2-ae9d-47cf-afab-4735e621ed7d">
 
 
+- [1148 - Países em Guerra](https://www.beecrowd.com.br/judge/pt/problems/view/1148)
+<img width="734" alt="Captura de Tela 2023-05-15 às 22 20 37" src="https://github.com/projeto-de-algoritmos/Grafos2_ListaBeecrowd/assets/86636146/d38259f8-0735-4b1e-a609-a29aab292089">
+
+
 
 ## Instalação 
 **Linguagem**: C<br>
